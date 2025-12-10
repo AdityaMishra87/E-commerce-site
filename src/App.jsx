@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './Components/Navbar.jsx'
 import Footer from './Components/Footer.jsx'
 import Home from './Pages/Home.jsx';
-import Shop from './Pages/shop.jsx';
+import Shop from './Pages/Shop.jsx';
 import Cart from './Pages/Cart.jsx';
 import './App.css'
 import Checkout from './Pages/Checkout.jsx';
