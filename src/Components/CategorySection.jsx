@@ -1,7 +1,7 @@
 import React from 'react'
-import ManCategory from '../assets/images/manRemove.png'
-import WomenCategory from '../assets/images/womenRemove.png'
-import KidCategory from '../assets/images/kidRemove.png'
+import ManCategory from '../assets/images/manremove.png'
+import WomenCategory from '../assets/images/womenremove.png'
+import KidCategory from '../assets/images/kidremove.png'
 
 const categories = [
   {
