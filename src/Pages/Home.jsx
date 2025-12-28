@@ -6,7 +6,7 @@ import CategorySection from '../Components/CategorySection'
 import { setProducts } from '../Redux/productSlice'
 import { useDispatch, useSelector } from 'react-redux'
 import ProductCard from '../Components/ProductCard.jsx'
-import Shop from './shop'
+import Shop from './Shop.jsx'
 
 
 const Home = () => {
